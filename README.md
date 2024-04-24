@@ -1,1 +1,2 @@
-# pandas-challenge
+# School and Standardized Testing Analysis
+This project uses the Pandas library to process and aggregate data for a sample city's school district. The purpose of this is to analyze the given school and students' standardized testing data to identify trends and make informed decisions regarding budgeting and prioritizing resources.
